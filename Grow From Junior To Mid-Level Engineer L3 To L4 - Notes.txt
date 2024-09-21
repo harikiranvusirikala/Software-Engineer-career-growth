@@ -1,0 +1,36 @@
+Overview
+How This Course Works
+Here are the core parts of the lesson:
+• You'll understand what it means to be a junior vs. a mid-level engineer in the market, including the interview space
+• We walk you through the course objectives. By the end of the course, you will understand:
+	• 💡 Truly understand the difference between a junior engineer and a mid-level engineer
+	• 🛠️ Learn to code like a mid-level engineer
+	• 💪 Know what it means to be truly independent
+	• 🧠 Have the right mindset to act as a mid-level
+	• ✅ Define a clear roadmap to mid-level
+
+
+At A Glance: Junior Vs. Mid-Level
+What exactly does it mean to be a junior engineer vs. a mid-level engineer? What's the gap? This lesson teaches you:
+• What it means at a high-level to be a junior vs. a mid-level engineer
+• The difference in execution between a junior engineer and a mid-level engineer
+• The types of tasks junior engineers work on vs. a mid-level engineer
+• The ownership and scope difference between a junior vs. a mid-level engineer
+• The difference in organizational complexity between junior engineers and mid-level engineers
+
+
+It's On You
+For later promotions (i.e. senior and beyond) there are many other factors at play besides your personal skill and growth. This isn't the case for junior engineer -> mid-level engineer. This lesson teaches you:
+• The fundamental difference between the junior -> mid-level promotion and others when it comes to landing impact
+• How to choose teams and projects as a junior engineer aiming to grow fast
+• What matters when it comes to the junior -> mid-level promotion
+
+
+Structuring Your Growth
+Even though junior engineer to mid-level engineer is the 1st and easiest promotion, it's still a meaningful evolution with many parts. This lesson teaches you:
+• The 3 core areas of improvement to grow from junior -> mid-level
+• The most important area to improve to make the junior -> mid-level promotion
+• How you should process the advice from this course
+
+
+
