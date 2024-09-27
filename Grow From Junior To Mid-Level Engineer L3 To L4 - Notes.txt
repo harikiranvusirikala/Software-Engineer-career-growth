@@ -34,3 +34,45 @@ Even though junior engineer to mid-level engineer is the 1st and easiest promoti
 
 
 
+The Code
+Decomposition
+As a junior engineer, you will inevitably get a problem that's super scary which you have 0 idea how to solve. This will probably happen sooner rather than later. This lesson teaches you:
+
+• The core tactic you need to master to solve large, incredibly complex problems
+• Why decomposition is critical to being a good engineer
+• The differences between junior and mid-level engineers when it comes to decomposition
+• What it means to effectively decompose a problem, shown with an in-depth example
+
+
+Code Quality
+In order to survive as a junior engineer, you need to learn how to code fast. The next step is to learn how to code well. This lesson teaches you:
+• The 2 core components behind code quality
+• The differences between junior and mid-level engineers when it comes to their pull request quality
+• The many ingredients behind a clean pull request and which ones matter the most
+• What a clean pull request looks like, one showing strong mid-level engineer behavior
+• The differences between junior and mid-level engineers when it comes to their technical decision making
+• Why communication is so important when it comes to technical decisions and how mid-level engineers do it better than junior engineers
+• How to understand seniority from fresh junior to strong mid-level through the lens of technical decision making
+• A simple metric to measure your code quality and see if you're making good progress to mid-level
+
+
+Code Review
+As a mid-level engineer, it's not enough to write good code yourself - You need to help others write good code as well. This lesson teaches you:
+• How junior and mid-level engineers differ when it comes to code review quantity, shown with concrete Meta numbers
+• The difference between a junior engineer code review comment vs. a mid-level engineer code review comment, explained with an in-depth example
+
+
+Debugging
+When it comes to software, there will always be bugs. What many realizes don't realize is that your attitude towards bugs is a huge marker of your seniority. This lesson teaches you:
+• Why junior engineers usually don't get assigned bugs
+• The differences between junior engineers and mid-level engineers when it comes to bugs
+• How to evaluate bug complexity overall
+• What a mid-level engineer bug looks like vs. a junior engineer bug
+
+
+Become A Go-To Person
+One of the most obvious signs of engineer seniority is that everybody on their team goes to them for help with certain areas. More senior = more areas. This lesson teaches you:
+• The easy way to understand the difference in mentality between junior and mid-level engineers when it comes to ownership
+• How to become a go-to person for your area
+• The one mantra you need to follow to organically deduce all the proper action items to become a go-to person
+
