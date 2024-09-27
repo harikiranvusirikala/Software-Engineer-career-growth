@@ -135,3 +135,20 @@ It's not enough to do the work - You also need to do the work to get full credit
 • The differences between junior engineers and mid-level engineers when it comes to showing their work
 • How mid-level engineers give far more effective status updates compared to junior engineers, explained with an in-depth example
 
+
+
+Conclusion
+High-Level Roadmap
+There's a bunch of different skills you need to develop as a junior engineer to grow to a mid-level engineer. To make things trickier, the order in which you develop them matters a lot. This lesson teaches you:
+• The 4-phases high-level roadmap to grow from junior engineer to mid-level
+• How long it takes to go from phase to phase on the mid-level engineer growth trajectory
+• The necessary components you need to have to establish a strong presence on your team, strong enough to merit a mid-level engineer promotion
+
+
+Done Is Better Than Perfect
+We all make mistakes. In fact, we'll all make a lot of mistakes as software engineers, especially when we're junior. This lesson teaches you:
+• The many types of dumb things you will inevitably do as a junior engineer (and continue doing as a mid-level/senior/staff/principal engineer)
+• The simple growth mentality and formula you should follow to speed run the junior to mid-level engineer
+• Why it's awesome to be the dumbest person in the room
+• A simple mathematical way to understand the difference between a fast-growing junior engineer and a slow-growing junior engineer
+
