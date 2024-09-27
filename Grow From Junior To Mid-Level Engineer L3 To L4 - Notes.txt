@@ -76,3 +76,32 @@ One of the most obvious signs of engineer seniority is that everybody on their t
 • How to become a go-to person for your area
 • The one mantra you need to follow to organically deduce all the proper action items to become a go-to person
 
+
+
+Independence
+Be Vulnerable
+As a junior engineer, you will have a lot of weaknesses. How you deal with them will greatly determine how fast you grow. This lesson teaches you:
+• The definition of true strength and how it relates to being vulnerable
+• A simple strategy to become very independent very quickly
+• The difference in mindset when it comes to independence for junior engineers vs. mid-level engineers
+• Why you can't solo-study your way towards becoming a great engineer
+
+
+Ask Great Questions
+In order to grow fast as an engineer, you need to ask a lot of questions. This lesson teaches you:
+• The differences between junior and mid-level engineers when it comes to asking question, particularly question quality
+• What a junior engineer question looks like vs. a mid-level engineer question
+• How to demonstrate technical mastery in your questions to make yourself look even better when asking for help
+
+
+Disambiguation
+Engineers will constantly get tasks that aren't fully defined, especially if they work at a top tech company like FAANG. This lesson teaches you:
+• The differences between junior and mid-level engineers when it comes to disambiguation
+• How mid-level engineers are much more effective at disambiguation compared to junior engineers, explained with an in-depth example
+
+
+Disambiguation
+Engineers will constantly get tasks that aren't fully defined, especially if they work at a top tech company like FAANG. This lesson teaches you:
+• The differences between junior and mid-level engineers when it comes to disambiguation
+• How mid-level engineers are much more effective at disambiguation compared to junior engineers, explained with an in-depth example
+
