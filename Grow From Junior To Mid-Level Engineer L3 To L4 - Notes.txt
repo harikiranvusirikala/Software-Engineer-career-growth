@@ -105,3 +105,33 @@ Engineers will constantly get tasks that aren't fully defined, especially if the
 • The differences between junior and mid-level engineers when it comes to disambiguation
 • How mid-level engineers are much more effective at disambiguation compared to junior engineers, explained with an in-depth example
 
+
+
+Collaboration
+Be A Feedback Sponge
+We all have blind spots, and you need feedback to see them. Getting feedback is especially important as an engineer given how information-dense the software field is. This lesson teaches you:
+• Why a surprising amount of junior engineers are terrible with feedback
+• Why you should almost never push back against feedback you disagree with
+• How not being good with feedback can severely damage your career, explained with an in-depth example
+• The differences between junior and mid-level engineers when it comes to handling feedback
+
+
+1 on 1 Meetings
+1 on 1 meetings are some of the most important and powerful uses of time... when leveraged properly (which junior engineers often don't). This lesson teaches you:
+• The difference between junior and mid-level engineers when it comes to 1 on 1 meetings
+• The simple, proactive tactic you should use for every single 1 on 1 meeting you have to make them far more useful
+
+
+Participating In Bigger Meetings
+Big meetings can be daunting for engineers, especially junior ones - What if you say something dumb? This lesson teaches you:
+• The difference between junior and mid-level engineers when it comes to meeting participation, explained with very simple pictures
+• Tactics you can use to come up with more to say in meetings, even if you're the most junior person there
+• A clever tactic you can use to participate in a meeting and add value to the discussion, even if you aren't entirely sure of what's going on
+
+
+Show Your Work
+It's not enough to do the work - You also need to do the work to get full credit for it. This lesson teaches you:
+• The 2 big components behind showing your work properly
+• The differences between junior engineers and mid-level engineers when it comes to showing their work
+• How mid-level engineers give far more effective status updates compared to junior engineers, explained with an in-depth example
+
