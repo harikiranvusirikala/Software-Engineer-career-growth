@@ -40,3 +40,27 @@ Not every engineering team can support an additional senior engineer. This lesso
 • The people ingredients of a team that's good for senior promotion
 • Exactly what a great team for senior promotion looks like
 
+
+
+Impact
+The Goggles
+Here's the harsh truth: The vast majority of mid-level engineers who are stuck at that level and unable to reach senior are holding themselves back (at least to some extent). This lesson teaches you:
+• The classic unhealthy mindset that mid-level engineers have that keeps them from ever reaching senior
+• How to correct the novice mid-level engineer mindset and evolve towards a senior engineer one by putting on The Goggles
+• How to think about The Goggles after you are aware of them (which you will be after going through this lesson)
+• The general way high-performing senior engineers (and beyond) view the world
+
+
+Take Greater Ownership
+As a senior engineer, you need to show strong ownership. Many mid-level engineers are told this by their manager but are unsure as to what that means. This lesson teaches you:
+• Why the "points" you get for impact aren't just correlated to the impact of the projects you work on
+• How to get more credit for each project you work on
+• What it means to show stronger, more holistic project ownership with a real-life example from Alex's past at Instagram
+
+
+Fill In The Gaps
+Senior engineers solve fundamentally different problems compared to mid-level engineers. This lesson teaches you:
+• The expectation for senior engineer mindset and behavior when problems arise in a project they're working on
+• The types of problems that mid-level engineers tend to avoid
+• The types of problems that senior engineers uniquely solve compared to more junior engineers
+
