@@ -93,3 +93,30 @@ System design is a topic engineers are becoming more and more familiar with, lar
 • The ingredients of a high-quality system design document
 • How to get feedback on your system design document
 • Tactics to run an effective technical review meeting
+
+
+
+Direction
+Just 1 Sentence Is Enough
+As a software engineer, you will often get tasks and projects that aren't fully defined. How you react and are able to perform in these scenarios is a huge factor when it comes to determining your seniority. This lesson teaches you:
+• A simple framework to understand the expectations of a senior engineer when it comes to handling ambiguity
+• The different components that go into converting a single sentence to a full-blown project
+
+
+Work Towards The Team Goal
+Software engineers aren't paid to write code; they're paid to solve problems. However, this mindset often takes years for engineers to truly internalize, often at the senior level. This lesson teaches you:
+• How mid-level engineers and senior engineers react different when given a project
+• The questions every senior engineer needs to ask when given a project
+• What needs to be done in order to understand the true impact of a project
+
+
+What's The Plan?
+The best engineers act proactively instead of reactively, and this is critical for successful project execution. This lesson teaches you:
+• The evolution in ownership of a project when it comes to a mid-level engineer vs. a senior engineer
+• What a good project plan looks like
+
+
+Project Management
+Planning a project is just the first step: Execution is when things really matter. The problem is that every software engineer leading a project should expect the unexpected, especially at a top tech company. This lesson teaches you:
+• How senior engineers set themselves apart when leading projects
+• The core ingredients for successfully managing a project, both during and after execution
