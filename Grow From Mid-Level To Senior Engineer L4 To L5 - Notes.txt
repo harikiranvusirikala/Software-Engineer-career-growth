@@ -64,3 +64,32 @@ Senior engineers solve fundamentally different problems compared to mid-level en
 • The types of problems that mid-level engineers tend to avoid
 • The types of problems that senior engineers uniquely solve compared to more junior engineers
 
+
+
+Engineering Excellence
+Code Quality
+Mid-level engineers are usually very solid at coding, but what most don't realize is how high the ceiling truly is when it comes to code quality. This lesson teaches you:
+• The difference in code quality between junior, mid-level, and senior engineers
+• What a senior engineer level pull request looks like
+
+
+Code Review
+Writing code is great, but so is reviewing code. In fact, being great at reviewing code is more impactful than being great at writing code 90%+ of the time! This lesson teaches you:
+• How the writing code vs. reviewing code dynamic changes as you get to senior
+• Why senior engineers tend to review more code than they write
+• How senior engineers expand their code review scope while mid-level engineer code review scope tends to be more constrained with a real-life example
+• The difference between a senior engineer code review comment vs. a mid-level engineer code review comment
+
+
+Debugging
+Debugging is one of the most important skills every software engineer needs to develop. Despite this, many software engineers see bugs as a source of frustration instead of opportunity. This lesson teaches you:
+• The mindset shift that has to happen when a mid-level engineer grows to senior engineer when it comes to bugs, particularly large production outages
+• How senior engineers solve different types of bugs of a broader scope compared to mid-level engineers
+
+
+System Design
+System design is a topic engineers are becoming more and more familiar with, largely due to their emerging prevalence in interviews. It's also critical for the mid-level to senior promotion. This lesson teaches you:
+• Why system design is the most important technical skill that mid-level engineers need to develop to grow to senior
+• The ingredients of a high-quality system design document
+• How to get feedback on your system design document
+• Tactics to run an effective technical review meeting
