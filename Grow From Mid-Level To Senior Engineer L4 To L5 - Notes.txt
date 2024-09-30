@@ -120,3 +120,35 @@ Project Management
 Planning a project is just the first step: Execution is when things really matter. The problem is that every software engineer leading a project should expect the unexpected, especially at a top tech company. This lesson teaches you:
 • How senior engineers set themselves apart when leading projects
 • The core ingredients for successfully managing a project, both during and after execution
+
+
+
+People
+Meetings
+Every tech company needs a ton of meetings in order to function. The tricky thing is that a lot of software engineers are introverts, so they have trouble participating in meetings, especially when they're more junior. This lesson teaches you:
+• The differences between junior, mid-level, and senior engineers when it comes to meeting presence
+• The difference in types of meetings mid-level engineers participate in vs. those of senior engineers
+• How meeting ownership shifts as engineers grow from mid-level to senior
+• Tips to run an effective meeting which is an efficient use of time
+
+
+Build A Strong Internal Network
+If you have a meaningful bench of people who are willing to fight for your success, you will succeed as a software engineer. One of the simplest ways to understand seniority is that this bench grows larger and larger over time. This lesson teaches you:
+• How an engineer's internal network at a company evolves as they grow from mid-level to senior, both in terms of breadth and depth
+• How to expand your internal network
+• The difference in peer feedback that mid-level engineers get compared to senior engineers, especially with XFN (cross-functional) partners
+
+
+Onboarding
+Onboarding is one of the most important processes for any healthy engineering team. Helping the newbies is both critical and rewarding. This lesson teaches you:
+• How a senior engineer levels up the team more when helping with onboarding compared to a mid-level engineer
+• Different ways to achieve multiplicative impact with onboarding instead of singular, even when you are the one onboarding!
+
+
+Mentorship is one of the most skills to master as a software engineer, especially at senior levels. It is both a way for you to do some good and scale yourself. This lesson teaches you:
+• The difference between passive and active mentorship
+• Ways to provide passive mentorship to teammates
+• Why you should consider taking on an intern as a mid-level engineer growing to senior
+• The jump in quality when it comes to mentorship advice given by a mid-level engineer vs. a senior engineer
+• The key thing to remember when being an effective mentor
+
