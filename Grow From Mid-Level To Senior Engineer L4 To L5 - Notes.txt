@@ -1,0 +1,42 @@
+Overview
+How This Course Works
+Here are the core parts of the lesson:
+• You'll understand what it means to be a mid-level engineer vs. a senior engineer in the market, including the interview space.
+• We walk you through the course objectives. By the end of the course, you will understand:
+	• 💡 Truly understand the difference between a mid-level engineer and a senior engineer
+	• 🧠 Have the right mindset to behave as a senior engineer
+	• 🛠️ Identify your technical gaps to senior engineer
+	• 📃 Figure out your fundamental gaps to senior engineer
+	• ✅ Define a clear roadmap to senior engineer
+
+
+Why Is The Senior Promotion So Hard?
+For most engineers, going from junior to mid-level isn't too hard with many of them achieving it unintentionally. This leads to them being surprised when the next promotion of mid-level to senior is so painfully difficult. This lesson teaches you:
+• The fundamental dynamic shift in skill development going from mid-level to senior
+• Why team selection is very important for growing to senior
+• The ambiguity of the senior promotion and the 2 broad paths you can take to get there
+• The large lagging nature of the senior promotion
+
+
+At A Glance: Mid-Level Vs. Senior
+What exactly does it mean to be a mid-level engineer vs. a senior engineer? What's the gap? This lesson teaches you:
+• What it means at a high-level to be a mid-level engineer vs. a senior engineer
+• The types of projects mid-level engineers work on vs. a senior engineer
+• The ownership and scope difference between a mid-level engineer vs. a senior engineer
+• The difference in organizational complexity between mid-level engineers and senior engineers
+
+
+Structuring Your Growth
+There are a lot of new skills you need to develop to go from mid-level engineer to senior engineer, far more than most people realize. So how does one process of all this? This lesson teaches you:
+• The 4 Meta engineering axes and what they mean (we'll be using these to organize the teachings from the course).
+• How to view the overall learning from this course
+• Why the senior promotion is different when it comes to these 4 engineering axes
+• The strategy you should follow to structure your growth journey, using this course's material as the basis
+
+
+Finding The Right Team
+Not every engineering team can support an additional senior engineer. This lesson teaches you:
+• What to look for in terms of product scope when choosing an engineering team to grow to senior
+• The people ingredients of a team that's good for senior promotion
+• Exactly what a great team for senior promotion looks like
+
