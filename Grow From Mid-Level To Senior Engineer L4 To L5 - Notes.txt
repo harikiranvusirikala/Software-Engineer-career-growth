@@ -152,3 +152,11 @@ Mentorship is one of the most skills to master as a software engineer, especiall
 • The jump in quality when it comes to mentorship advice given by a mid-level engineer vs. a senior engineer
 • The key thing to remember when being an effective mentor
 
+
+
+Conclusion
+Plot Your Growth Journey
+The mid-level engineer to senior engineer promotion takes years for a very simple reason: You need to develop a ton of new skills to make it. This lesson teaches you:
+• How to prevent yourself from becoming overwhelmed on your journey from mid-level to senior
+• The standard growth path from L4 (mid-level) to L5 (senior) and what it means to be L4.5
+• Why the L4.5 growth path that initially focuses on increasing your engineering excellence is generally the smoothest path to senior engineer
